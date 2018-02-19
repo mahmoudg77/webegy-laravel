@@ -1,5 +1,5 @@
 <?php
-
+/**kjhkjhkhkj**/
 namespace App;
 
 use Illuminate\Notifications\Notifiable;
